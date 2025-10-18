@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ErikModelFramework",
-            url: "https://github.com/suhailp-eccentric/SwiftErikFramework/releases/download/1.0.3/ErikIosModelFramework.xcframework.zip",
-            checksum: "ecb2d8e2378bf17547caefee3bb15c25b7d45b26b906aa3ec45f7206d12cc19b"
+            url: "https://github.com/suhailp-eccentric/SwiftErikFramework/releases/download/1.0.4/ErikIosModelFramework.xcframework.zip",
+            checksum: "c4f479f2f911238c08d5fd526124344977bf50cec5e19f8b88f513c84835d27f"
         )
     ]
 )
